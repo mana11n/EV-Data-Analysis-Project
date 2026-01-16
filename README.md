@@ -51,4 +51,3 @@ The dataset contains information such as:
 - EV adoption is geographically concentrated in specific states
 - Tesla leads overall vehicle counts among manufacturers
 - CAFV eligibility highlights the policy-driven aspect of EV adoption
-- 
