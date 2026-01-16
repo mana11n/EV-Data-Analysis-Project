@@ -32,6 +32,13 @@ The dataset contains information such as:
 
 ---
 
+## Interactive Dashboard
+The dashboard has been published to Tableau Public for interactive exploration:
+
+🔗 **Tableau Public Link:** [<PASTE_YOUR_LINK_HERE>](https://public.tableau.com/app/profile/manan.sharma3103/viz/Dashboardproject_17432763540190/Dashboard1#2)
+
+---
+
 ## Dashboard Preview
 
 ### All Vehicles (No Filters Applied)
